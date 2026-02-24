@@ -62,7 +62,7 @@ const useStyles = makeStyles((theme) => ({
     backgroundRepeat: 'no-repeat',
     backgroundPosition: 'center',
     backgroundSize: 'cover',
-    height: "89vh",
+    height: "93vh",
     marginTop: "8px",
   },
   imageCard: {
